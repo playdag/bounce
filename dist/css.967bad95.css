@@ -1,0 +1,103 @@
+@font-face {
+	font-family: 'BigJohn';
+	src: url("BIG JOHN.1922bc92.otf");
+}
+@font-face {
+	font-family: 'SansProBlack';
+	src: url("SourceSansPro-Black.598251fc.ttf");
+}
+@font-face {
+	font-family: 'SourceProLight';
+	src: url("SourceSansPro-Light.a8d9f187.otf");
+}
+@font-face {
+	font-family: 'OpenSans';
+	src: url("OpenSans-Regular.4f32e784.ttf");
+}
+
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.main {
+	width: 100%;
+	height: 100vh;
+	background: url(banner.0529700c.png);
+	background-size: cover;
+}
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 10vh;
+	padding: 7vh 5%;
+}
+.logo {
+	font-family: 'BigJohn';
+	color: white;
+	font-size: 35px;
+}
+.nav {
+	font-family: 'OpenSans';
+	color: white;
+	font-size: 20px;
+	display: flex;
+}
+.nav li {
+	margin-left: 45px;
+}
+.title {
+	width: 100%;
+	height: 90vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.title h1 {
+	font-family: 'SourceProLight';
+	color: white;
+	font-size: 55px;
+	letter-spacing: 10px;
+}
+.title p {
+	font-family: 'OpenSans';
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 40px;
+}
+.about {
+	width: 100%;
+	height: 70vh;
+	display: flex;
+	padding: 15% 10%;
+}
+.about h1 {
+	font-family: 'SourceProLight';
+}
+.about p {
+	font-size: 20px;
+}
+.about a {
+	font-size: 20px;
+	color: black;
+}
+.readmore {
+	border: 1px solid black;
+	width: 100px;
+}
+.about-text {
+	display: flex;
+	flex-direction: column;
+}
