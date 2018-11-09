@@ -171,12 +171,12 @@ function reloadCSS() {
 }
 
 module.exports = reloadCSS;
-},{"./bundle-url":"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/bundle-url.js"}],"css/index.css":[function(require,module,exports) {
+},{"./bundle-url":"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/bundle-url.js"}],"path/to/pe-icon-7-stroke/css/pe-icon-7-stroke.css":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./..\\fonts\\BIG JOHN.otf":[["BIG JOHN.1922bc92.otf","fonts/BIG JOHN.otf"],"fonts/BIG JOHN.otf"],"./..\\fonts\\SourceSansPro-Black.ttf":[["SourceSansPro-Black.598251fc.ttf","fonts/SourceSansPro-Black.ttf"],"fonts/SourceSansPro-Black.ttf"],"./..\\fonts\\SourceSansPro-Light.otf":[["SourceSansPro-Light.a8d9f187.otf","fonts/SourceSansPro-Light.otf"],"fonts/SourceSansPro-Light.otf"],"./..\\fonts\\OpenSans-Regular.ttf":[["OpenSans-Regular.4f32e784.ttf","fonts/OpenSans-Regular.ttf"],"fonts/OpenSans-Regular.ttf"],"./..\\img\\banner.png":[["banner.0529700c.png","img/banner.png"],"img/banner.png"],"./..\\img\\LayerSubmit.png":[["LayerSubmit.773b1c24.png","img/LayerSubmit.png"],"img/LayerSubmit.png"],"_css_loader":"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./..\\fonts\\Pe-icon-7-stroke.eot":[["Pe-icon-7-stroke.52fed10e.eot","path/to/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot"],"path/to/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot"],"./..\\fonts\\Pe-icon-7-stroke.woff":[["Pe-icon-7-stroke.0cf5ef15.woff","path/to/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff"],"path/to/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff"],"./..\\fonts\\Pe-icon-7-stroke.ttf":[["Pe-icon-7-stroke.b8a2f5c8.ttf","path/to/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf"],"path/to/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf"],"./..\\fonts\\Pe-icon-7-stroke.svg":[["Pe-icon-7-stroke.ac0bfc3c.svg","path/to/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg"],"path/to/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg"],"_css_loader":"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
